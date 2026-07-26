@@ -20,7 +20,7 @@ A hand-built Canvas arcade. No engine, no sprite sheets, no asset pipeline.
 
 ### 🎵 Music
 
-Full albums built with AI collaborators: *Grief without Ritual*, *Junkyard Cabaret*, and the *Exploring L.ai.bor* mixtape (plus Side Two and the B-Sides, because every mixtape needs a flip).
+AI-assisted albums: *Grief without Ritual*, *Junkyard Cabaret*, and the *Exploring L.ai.bor* mixtape (plus Side Two and the B-Sides, because every mixtape needs a flip).
 
 ### 🎭 Theater
 
